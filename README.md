@@ -1,3 +1,3 @@
 #include<iostream.h>
-#include<srdio.h>
+#include<stdio.h>
 printf("HI!");
